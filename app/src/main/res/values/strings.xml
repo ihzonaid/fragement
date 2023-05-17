@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="spinner_array">
+        <item>BMI Calculator</item>
+        <item>Quiz App</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Bmi fragment</string>
+</resources>
