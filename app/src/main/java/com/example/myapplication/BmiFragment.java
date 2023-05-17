@@ -93,6 +93,5 @@ public class BmiFragment extends Fragment {
         double  res = height_value / (weight_value * weight_value);
         result.setText("Your BMI is: "+  res);
 
-
     }
 }
